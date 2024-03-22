@@ -10,7 +10,7 @@ from usb.core import find, USBTimeoutError
 class NovaProWireless:
     # USB IDs
     VID = 0x1038
-    PID = 0x12E0
+    PID = 0x12E5
 
     # bInterfaceNumber
     INTERFACE = 0x4
